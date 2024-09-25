@@ -1,0 +1,10 @@
+div#root{
+    width: 30%;
+    height:400px;
+    background-color: lightblue;
+    margin: 50px auto;
+    border-radius: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    
+}
